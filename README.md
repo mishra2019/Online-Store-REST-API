@@ -11,10 +11,10 @@ This is a RESTful API for a fictional online store that sells electronic product
 
 1. Clone the repository:
 
-$ git clone <repository-url>
+$ git clone https://github.com/mishra2019/Online-Store-REST-API.git
 
 2. Install the dependencies:
-   $ cd online-store-api
+   $ cd <your_project_folder>
    $ npm install
 
 3.Set up the environment variables:
